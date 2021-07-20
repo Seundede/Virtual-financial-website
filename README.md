@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-URL: https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()
+URL: https://60f6a560e5ae66b9347cb2cc--nairawebsite.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
