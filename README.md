@@ -1,8 +1,8 @@
-Banking webite
+BANKING WEBSITE
 
 This is a website  built for a financial institution. It was constructed with create-react-app - featuring  Hooks, Router, react icons and  styled components.
 
-Demo
+DEMO
 
 https://nairawebsite.netlify.app/
 
