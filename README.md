@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+#Banking webite
 
-URL: https://nairawebsite.netlify.app/
+This is a website  built for a financial institution. It was constructed with create-react-app - featuring Google Maps API, Hooks, Router and custom styled components from the Materialize library.
+
+#URL
+(https://nairawebsite.netlify.app/)
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
