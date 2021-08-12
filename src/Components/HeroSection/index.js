@@ -28,7 +28,7 @@ const onHover = () => {
           <HeroContent>
             <HeroH1>Virtual Banking Made Easy</HeroH1>
             <HeroP>
-              Sign up for a new account today and receive #5000 in credit
+              Sign up for a new account today and receive ₦5000 in credit
               towards your next payment.
             </HeroP>
             <HeroBtnWrapper>
