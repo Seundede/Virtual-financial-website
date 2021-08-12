@@ -1,9 +1,10 @@
-#Banking webite
+Banking webite
 
-This is a website  built for a financial institution. It was constructed with create-react-app - featuring Google Maps API, Hooks, Router and custom styled components from the Materialize library.
+This is a website  built for a financial institution. It was constructed with create-react-app - featuring  Hooks, Router, react icons and  styled components.
 
-#URL
-(https://nairawebsite.netlify.app/)
+Demo
+
+https://nairawebsite.netlify.app/
 
 # Getting Started with Create React App
 
