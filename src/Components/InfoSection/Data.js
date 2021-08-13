@@ -28,9 +28,9 @@ export const homeObjTwo = {
   imgStart: false,
   img: require("../../Images/image2.svg").default,
   alt: "Fingerprint",
-  dark: true,
-  primary: true,
-  darkText: false,
+   dark: false,
+  primary: false,
+  darkText: true,
 };
 export const homeObjThree = {
   id: "signup",
