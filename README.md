@@ -1,6 +1,6 @@
 BANKING WEBSITE
 
-This is a website  built for a financial institution. It was constructed with create-react-app - featuring  Hooks, Router, react icons and  styled components.
+Naira is a financial website made to promote  virtual banking with unlimited transcations and zero fee charge. It was built with create-react-app - featuring  Hooks, Router, react icons and  styled components.
 
 DEMO
 
